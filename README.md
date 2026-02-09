@@ -8,7 +8,7 @@ This project implements a reproducible, Docker-ready Retrieval-Augmented Generat
 
 ```
 rag_project/
-├── data/			# Drop zone for PDFs
+├── data/			    # Drop zone for PDFs
 ├── chroma_db/ 			# Persistent vectorstore
 ├── config.py 			# API key and chunking variables
 ├── loaders.py 			# PDF loading logic
